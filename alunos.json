@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Carolina",
+        "idade": 16,
+        "curso": "Mecatrônica",
+        "nota": 10.0
+    },{
+        "id": 2,
+        "nome": "fernando",
+        "idade": 17,
+        "curso": "robotica",
+        "nota": 6.0
+    },{
+        "id": 3,
+        "nome": "samira",
+        "idade": 22,
+        "curso": "administracao",
+        "nota": 7.0
+    },{
+        "id": 4,
+        "nome": "Carolina",
+        "idade": 23,
+        "curso": "contabilidade",
+        "nota": 4.0
+    },{
+        "id": 5,
+        "nome": "Ana maria",
+        "idade": 19,
+        "curso": "direito",
+        "nota": 9.0
+    }
+]
